@@ -1,6 +1,6 @@
 # Teleport and Account.Link
 
-account.link tears down the traditional boundaries of account ownership and jailbreaks your thoughts on "identity"
+account.link tears down the traditional boundaries of account ownership and jailbreaks your thoughts on identity and agency
 
 ## Teleport.Best 
 one time programs for your social accounts 
