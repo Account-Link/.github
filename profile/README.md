@@ -18,5 +18,5 @@ the first "stage 1" autonomous AI agent
 
 ## Deal with the Devil 
 sell your (social) soul for a quick fix of fame
-- 📜 https://medium.com/@helltech/deal-with-the-devil-24c3f2681200
+- 📜 How to domesticate a Shoggoth https://medium.com/@helltech/deal-with-the-devil-24c3f2681200
 - 🌐 https://hell.tech/
