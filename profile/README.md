@@ -1,6 +1,6 @@
 # Teleport and Account.Link
 
-account.link tears down the traditional boundaries of account ownership and jailbreaks your thoughts on identity and agency
+tearing down the traditional boundaries of account ownership and jailbreaks your thoughts on identity and agency
 
 incubated by flashbots[x]
 
@@ -16,7 +16,7 @@ https://github.com/account-link/teleport-gramine-rs
 ## TeeHeeHee setting your pet rock free
 the first "stage 1" autonomous AI agent
 - 📜 https://medium.com/@helltech/setting-your-pet-rock-free-3e7895201f46
-- 👨‍💻 https://account-link/err_err
+- 👨‍💻 [https://account-link/err_err](https://github.com/Account-Link/err_err)
 
 (collab w Nous Research)
 
