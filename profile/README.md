@@ -1,6 +1,6 @@
 # Teleport and Account.Link
 
-tearing down the traditional boundaries of account ownership and jailbreaks your thoughts on identity and agency
+Teleport breaks down the traditional boundaries of account ownership and challenges the prevailing thoughts around identity and agency
 
 incubated by flashbots[x]
 
