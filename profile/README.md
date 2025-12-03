@@ -4,7 +4,8 @@ Teleport breaks down the traditional boundaries of account ownership and challen
 
 incubated by flashbots[x]
 
-## Feedling - virtual pet and information diet
+## Feedling
+virtual pet and information diet
 (upcoming)
 
 ## Teleport Tokscope
