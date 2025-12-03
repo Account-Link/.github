@@ -4,14 +4,18 @@ Teleport breaks down the traditional boundaries of account ownership and challen
 
 incubated by flashbots[x]
 
-## Teleport.Best 
-one time programs for your social accounts 
-- 👨‍💻 https://teleport.best/
-https://github.com/account-link/teleport-gramine-rs
-- 🖼️ https://opensea.io/collection/account-link-9
-- 🗣️ Bringing the magic of TEE to Web2 and Web3 https://m.youtube.com/watch?v=a_arkVtKD-s
-- 🗣️ What applications do TEEs enable? https://m.youtube.com/watch?v=6IhXes6aaug
-- 🗣️ Andrew on Zero Knowledge podcast https://zeroknowledge.fm/podcast/339/
+## Feedling - virtual pet and information diet
+(upcoming)
+
+## Teleport Tokscope
+Workbench and enclave for delegating your watch history
+- https://github.com/Account-Link/teleport-tokscope
+- Restoring our Social Fabric with Liberated Private Data and Confidential Compute. [(youtube)](https://www.youtube.com/watch?v=Zg4FgHiw6k4)
+
+## Teleport MCP
+a communication channel for two people and their AI assistants, with "ambient credible commitments" from programmable enclaves 
+- https://github.com/account-link/mcp-multiplayer
+- Untrusting agents can collaborate with erc-733 and Teleport MCP [(youtube)](https://m.youtube.com/watch?v=XL_Nn4oep6M&t=1h28m24s)
 
 ## TeeHeeHee setting your pet rock free
 the first "stage 1" autonomous AI agent
@@ -26,3 +30,16 @@ sell your (social) soul for a quick fix of fame
 - 🌐 https://hell.tech/
 
 (collab w shl0ms and Nous Research)
+
+## Teleport.Best 
+one time programs for your social accounts 
+- 👨‍💻 https://teleport.best/
+https://github.com/account-link/teleport-gramine-rs
+- 🖼️ https://opensea.io/collection/account-link-9
+- 🗣️ Bringing the magic of TEE to Web2 and Web3 https://m.youtube.com/watch?v=a_arkVtKD-s
+- 🗣️ What applications do TEEs enable? https://m.youtube.com/watch?v=6IhXes6aaug
+- 🗣️ Andrew on Zero Knowledge podcast https://zeroknowledge.fm/podcast/339/
+
+
+
+
