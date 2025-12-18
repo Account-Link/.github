@@ -1,4 +1,4 @@
-# Teleport and Account.Link
+# Teleport
 
 Teleport breaks down the traditional boundaries of account ownership and challenges the prevailing thoughts around identity and agency
 
