@@ -6,25 +6,25 @@ incubated by flashbots[x]
 
 ## Feedling
 virtual pet and information diet
-- app (upcoming)
-- weekly wrapped (upcoming)
-- https://wrapped.feedling.app/
-- tiktok [@your.feedling](https://www.tiktok.com/@your.feedling)
+- 🚧 app (upcoming)
+- 🎬 weekly wrapped (upcoming)
+- 🎆 https://wrapped.feedling.app/
+- 📽️ tiktok [@your.feedling](https://www.tiktok.com/@your.feedling)
 
 ## Hermes
 messenger of the claudes
-- https://hermes.teleport.computer/
-- repo [(github)](github.com/jameslbarnes/hermes)
+- 🤖 https://hermes.teleport.computer/
+- 🔧 repo [(github)](https://github.com/jameslbarnes/hermes)
 
 ## OAuth3
 agent-first delegation of credentials 
-- (upcoming)
+- 🚧 (upcoming)
 
 ## Github-ZKTLS
 github actions are sort of a TEE
-- repo [(github)](https://github.com/account-link/github-zktls)
-- paper [(overleaf)](https://www.overleaf.com/read/vmwnhsrmbdgc)
-- Try out the [self-claiming testnet faucet](https://github.com/amiller/github-zktls?tab=readme-ov-file#try-it-base-sepolia-faucet)
+- 🔧 repo [(github)](https://github.com/account-link/github-zktls)
+- 📜 paper [(overleaf)](https://www.overleaf.com/read/vmwnhsrmbdgc)
+- 🚰 Try out the [self-claiming testnet faucet](https://github.com/amiller/github-zktls?tab=readme-ov-file#try-it-base-sepolia-faucet)
 
 ## Teleport Tokscope
 Workbench and enclave for delegating your watch history
