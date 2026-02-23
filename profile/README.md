@@ -19,6 +19,7 @@ agent-first delegation of credentials
 github actions are sort of a TEE
 - repo [(github)](https://github.com/account-link/github-zktls)
 - paper [(overleaf)](https://www.overleaf.com/read/vmwnhsrmbdgc)
+- Try out the [self-claiming testnet faucet](https://github.com/amiller/github-zktls?tab=readme-ov-file#try-it-base-sepolia-faucet)
 
 ## Teleport Tokscope
 Workbench and enclave for delegating your watch history
