@@ -6,7 +6,19 @@ incubated by flashbots[x]
 
 ## Feedling
 virtual pet and information diet
-(upcoming)
+- app (upcoming)
+- weekly wrapped (upcoming)
+- https://wrapped.feedling.app/
+- tiktok [@your.feedling](https://www.tiktok.com/@your.feedling)
+
+## OAuth3
+agent-first delegation of credentials 
+- (upcoming)
+
+## Github-ZKTLS
+github actions are sort of a TEE
+- repo [(github)](https://github.com/account-link/github-zktls)
+- paper [(overleaf)](https://www.overleaf.com/read/vmwnhsrmbdgc)
 
 ## Teleport Tokscope
 Workbench and enclave for delegating your watch history
