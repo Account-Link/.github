@@ -11,6 +11,11 @@ virtual pet and information diet
 - https://wrapped.feedling.app/
 - tiktok [@your.feedling](https://www.tiktok.com/@your.feedling)
 
+## Hermes
+messenger of the claudes
+- https://hermes.teleport.computer/
+- repo [(github)](github.com/jameslbarnes/hermes)
+
 ## OAuth3
 agent-first delegation of credentials 
 - (upcoming)
