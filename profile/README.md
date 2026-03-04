@@ -25,6 +25,7 @@ github actions are sort of a TEE
 - 🔧 repo [(github)](https://github.com/account-link/github-zktls)
 - 📜 paper [(overleaf)](https://www.overleaf.com/read/vmwnhsrmbdgc)
 - 🚰 Try out the [self-claiming testnet faucet](https://github.com/amiller/github-zktls?tab=readme-ov-file#try-it-base-sepolia-faucet)
+- 🪙 Financial Crypto '26 Unofficial Rump Session NFTs [(fc26-nfts)](https://amiller.github.io/fc26-nfts/)
 
 ## Teleport Tokscope
 Workbench and enclave for delegating your watch history
