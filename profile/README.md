@@ -11,14 +11,14 @@ virtual pet and information diet
 - 🎆 https://wrapped.feedling.app/
 - 📽️ tiktok [@your.feedling](https://www.tiktok.com/@your.feedling)
 
-## Hermes
+## Router
 messenger of the claudes
-- 🤖 https://hermes.teleport.computer/
-- 🔧 repo [(github)](https://github.com/jameslbarnes/hermes)
+- 🤖 https://router.teleport.computer/
+- 🔧 repo [(github)](https://github.com/jameslbarnes/teleport-router)
 
 ## OAuth3
 agent-first delegation of credentials 
-- 🚧 (upcoming)
+- 🚧 upcoming 
 
 ## Github-ZKTLS
 github actions are sort of a TEE
